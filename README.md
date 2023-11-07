@@ -16,14 +16,15 @@ In each region, players will encounter various challenges. Each challenge is pre
 
 
 - **Competitive Element:** Details on how the application/game facilitates competition among students.
-
+Each challenge will have a leaderboard which will show the top 5 shortest time that someone used to complete the challenges. 
 
 
 - **Engagement and Addictiveness Strategies:** An explanation of the features or strategies employed to make the application/game engaging and addictive.
-
+Every two weeks, rewards are distributed to players on the leaderboard. These rewards can be used to purchase in-game clothing from the store.
 
 
 - **Scalability and Expansion:** A discussion of how the design allows for future growth and adoption beyond the initial homework assignment.
+The map can expand infinitely, allowing for the addition of numerous challenges.
 
 
 - **Accessibility and Inclusivity:** A section detailing how the design adheres to the California non-discrimination clause and ensures inclusivity for all potential users.
