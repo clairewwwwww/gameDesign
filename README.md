@@ -28,3 +28,4 @@ The map can expand infinitely, allowing for the addition of numerous challenges.
 
 
 - **Accessibility and Inclusivity:** A section detailing how the design adheres to the California non-discrimination clause and ensures inclusivity for all potential users.
+there's no age limit, so no discrimination against age
