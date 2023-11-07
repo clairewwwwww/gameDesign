@@ -1,8 +1,11 @@
 # gameDesign
 hihi
 - **Introduction:** A brief overview of the application/game, its purpose, and its target audience.
-
-
+genre: cooperative action adventure puzzle platform games
+location: Harvard-Westlake School
+overview: Each building of the school represents a different region. Players need to complete challenges within each region, level up, in order to unlock the next one. 
+purpose: problem solving + skill developing + have fun
+target audience: everyone
 
 - **Value/Use:** A clear and explicit explanation of the value or use provided by the application/game.
 
