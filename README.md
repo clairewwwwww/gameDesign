@@ -8,11 +8,11 @@ purpose: problem solving + skill developing + have fun
 target audience: everyone
 
 - **Value/Use:** A clear and explicit explanation of the value or use provided by the application/game.
-
+The game can teach players cooperation and problem-solving skills.
 
 
 - **User Interaction and Experience:** A description of how users will interact with the application/game and what their experience will be like.
-
+In each region, players will encounter various challenges. Each challenge is presented in a different map and often revolves around level completion, puzzle solving, or teamwork.
 
 
 - **Competitive Element:** Details on how the application/game facilitates competition among students.
